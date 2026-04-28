@@ -1,0 +1,13 @@
+{
+  "86926799": {
+    "owner": "maxmartinez",
+    "balance": 450.0,
+    "type": "checking"
+  },
+  "64741819": {
+    "owner": "maxmartinez",
+    "balance": 50050.0,
+    "type": "savings",
+    "interest_rate": 0.02
+  }
+}

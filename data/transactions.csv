@@ -1,0 +1,5 @@
+transaction_id,account_number,type,amount,date,description
+EB8F110B,86926799,deposit,500.0,2026-04-27 22:48:02,Deposit
+A73972EA,64741819,deposit,50000.0,2026-04-27 22:49:34,Deposit
+8E80B946,86926799,transfer_out,50.0,2026-04-27 22:50:06,To 64741819
+2FC62B6F,64741819,transfer_in,50.0,2026-04-27 22:50:06,From 86926799
